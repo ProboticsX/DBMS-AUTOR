@@ -1,0 +1,25 @@
+sNo,sName,duration,category,serviceType
+101,Belt Replacement,1,Engine Services,R
+102,Engine Repair,5,Engine Services,R
+103,Exhaust Repair,4,Exhaust Services,R
+104,Muffler Repair,2,Exhaust Services,R
+105,Alternator Repair,4,Electrical Services,R
+106,Power Lock Repair,5,Electrical Services,R
+107,Axle Repair,7,Transmission Services,R
+108,Brake Repair,3,Transmission Services,R
+109,Tire Balancing,2,Tire Services,R
+110,Wheel Alignment,1,Tire Services,R
+111,Compressor Repair,3,Heating and A/C Services,R
+112,Evaporator Repair,4,Heating and A/C Services,R
+113,Oil Changes,3,A,M
+113,Filter Replacements,3,A,M
+114,Oil Changes,6,B,M
+114,Filter Replacements,6,B,M
+114,Brake Repair,6,B,M
+114,Check Engine Light Diagnostics,6,B,M
+115,Oil Changes,9,C,M
+115,Filter Replacements,9,C,M
+115,Brake Repair,9,C,M
+115,Check Engine Light Diagnostics,9,C,M
+115,Suspension Repair,9,C,M
+115,Evaporator Repair,9,C,M
